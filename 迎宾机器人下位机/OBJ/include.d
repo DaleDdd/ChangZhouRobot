@@ -1,0 +1,13 @@
+..\OBJ\include.o: ..\HARDWARE\INCLUDE\include.c
+..\OBJ\include.o: ..\HARDWARE\INCLUDE\include.h
+..\OBJ\include.o: ..\HARDWARE\STMFLASH\stmflash.h
+..\OBJ\include.o: ..\SYSTEM\sys\sys.h
+..\OBJ\include.o: ..\SYSTEM\sys\stm32f10x.h
+..\OBJ\include.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+..\OBJ\include.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\include.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+..\OBJ\include.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+..\OBJ\include.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\OBJ\include.o: ..\HARDWARE\ID\id.h
+..\OBJ\include.o: ..\SYSTEM\usart\usart.h
+..\OBJ\include.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h

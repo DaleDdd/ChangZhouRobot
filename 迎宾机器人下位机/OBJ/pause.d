@@ -1,0 +1,9 @@
+..\OBJ\pause.o: ..\HARDWARE\PAUSE\pause.c
+..\OBJ\pause.o: ..\HARDWARE\PAUSE\pause.h
+..\OBJ\pause.o: ..\SYSTEM\sys\sys.h
+..\OBJ\pause.o: ..\SYSTEM\sys\stm32f10x.h
+..\OBJ\pause.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+..\OBJ\pause.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\pause.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+..\OBJ\pause.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+..\OBJ\pause.o: ..\SYSTEM\sys\system_stm32f10x.h

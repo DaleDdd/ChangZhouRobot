@@ -1,0 +1,11 @@
+..\obj\24cxx.o: ..\HARDWARE\FM24Cxx\24cxx.c
+..\obj\24cxx.o: ..\HARDWARE\FM24Cxx\24cxx.h
+..\obj\24cxx.o: ..\HARDWARE\FM24Cxx\iic.h
+..\obj\24cxx.o: ..\SYSTEM\sys\sys.h
+..\obj\24cxx.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\24cxx.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\24cxx.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\24cxx.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\24cxx.o: ..\SYSTEM\usart\usart.h
+..\obj\24cxx.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\24cxx.o: ..\SYSTEM\delay\delay.h

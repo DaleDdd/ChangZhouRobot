@@ -1,0 +1,9 @@
+..\OBJ\time2.o: ..\HARDWARE\TIME2\time2.c
+..\OBJ\time2.o: ..\HARDWARE\TIME2\time2.h
+..\OBJ\time2.o: ..\SYSTEM\sys\sys.h
+..\OBJ\time2.o: ..\SYSTEM\sys\stm32f10x.h
+..\OBJ\time2.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+..\OBJ\time2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\time2.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+..\OBJ\time2.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+..\OBJ\time2.o: ..\SYSTEM\sys\system_stm32f10x.h

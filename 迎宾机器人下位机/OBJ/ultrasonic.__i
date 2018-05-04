@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\EXIT -I..\HARDWARE\WDG -I..\HARDWARE -I..\HARDWARE\STMFLASH -I..\HARDWARE\ID -I..\HARDWARE\CRC16 -I..\HARDWARE\INCLUDE -I..\HARDWARE\PAUSE -I..\HARDWARE\BARRIER 
+-I "D:\Keil 4.7\ARM\RV31\INC" 
+-I "D:\Keil 4.7\ARM\CMSIS\Include" 
+-I "D:\Keil 4.7\ARM\Inc\ST\STM32F10x" 
+-DSTM32F10X_HD -o "..\OBJ\ultrasonic.o" --omf_browse "..\OBJ\ultrasonic.crf" --depend "..\OBJ\ultrasonic.d" "..\HARDWARE\ULTRASONIC\ultrasonic.c"

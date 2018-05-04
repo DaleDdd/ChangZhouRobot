@@ -1,0 +1,9 @@
+..\obj\motioncontrol.o: ..\HARDWARE\MOTIONCONTROL\motioncontrol.c
+..\obj\motioncontrol.o: ..\HARDWARE\MOTIONCONTROL\motioncontrol.h
+..\obj\motioncontrol.o: ..\HARDWARE\PWM\pwm.h
+..\obj\motioncontrol.o: ..\SYSTEM\sys\sys.h
+..\obj\motioncontrol.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\motioncontrol.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\motioncontrol.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\motioncontrol.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\motioncontrol.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

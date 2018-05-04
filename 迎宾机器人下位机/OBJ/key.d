@@ -1,0 +1,10 @@
+..\OBJ\key.o: ..\HARDWARE\KEY\key.c
+..\OBJ\key.o: ..\HARDWARE\KEY\key.h
+..\OBJ\key.o: ..\SYSTEM\sys\sys.h
+..\OBJ\key.o: ..\SYSTEM\sys\stm32f10x.h
+..\OBJ\key.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+..\OBJ\key.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\key.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+..\OBJ\key.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+..\OBJ\key.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\OBJ\key.o: ..\SYSTEM\delay\delay.h

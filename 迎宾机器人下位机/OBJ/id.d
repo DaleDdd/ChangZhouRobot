@@ -1,0 +1,9 @@
+..\obj\id.o: ..\HARDWARE\ID\id.c
+..\obj\id.o: ..\HARDWARE\ID\id.h
+..\obj\id.o: ..\SYSTEM\sys\sys.h
+..\obj\id.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\id.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\id.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\id.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\id.o: ..\SYSTEM\usart\usart.h
+..\obj\id.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

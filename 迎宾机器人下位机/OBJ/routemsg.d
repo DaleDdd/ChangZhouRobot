@@ -1,0 +1,11 @@
+..\obj\routemsg.o: ..\HARDWARE\ROUTEMSG\routemsg.c
+..\obj\routemsg.o: ..\HARDWARE\ROUTEMSG\routemsg.h
+..\obj\routemsg.o: ..\HARDWARE\STMFLASH\stmflash.h
+..\obj\routemsg.o: ..\SYSTEM\sys\sys.h
+..\obj\routemsg.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\routemsg.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\routemsg.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\routemsg.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\routemsg.o: ..\HARDWARE\FM24Cxx\24cxx.h
+..\obj\routemsg.o: ..\HARDWARE\FM24Cxx\iic.h
+..\obj\routemsg.o: ..\HARDWARE\TIME5\time5.h

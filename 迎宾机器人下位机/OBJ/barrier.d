@@ -1,0 +1,9 @@
+..\obj\barrier.o: ..\HARDWARE\BARRIER\barrier.c
+..\obj\barrier.o: ..\HARDWARE\BARRIER\barrier.h
+..\obj\barrier.o: ..\SYSTEM\sys\sys.h
+..\obj\barrier.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\barrier.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\barrier.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\barrier.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\barrier.o: ..\SYSTEM\delay\delay.h
+..\obj\barrier.o: ..\HARDWARE\WIRELESS\wireless.h
