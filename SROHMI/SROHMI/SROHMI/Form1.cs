@@ -79,7 +79,7 @@ namespace SROHMI
                 vi.Dispose();           //关闭视频窗体
 
                 vi_flag = false;
-                pp = false;
+                pp = false; 
                 //timer1.Enabled = true;
                 
             }
